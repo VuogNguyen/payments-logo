@@ -1,0 +1,102 @@
+.bg-contain {
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.icon-cc {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 30px;
+}
+
+.icon-visa::after {
+	@extend .bg-contain;
+	@extend .icon-cc;
+	background-image: url("icons/visa-1-xl.png");
+}
+
+.icon-mastercard::after {
+	@extend .bg-contain;
+	@extend .icon-cc;
+	background-image: url("icons/mastercard-1-xl.png");
+}
+
+.icon-amex::after {
+	@extend .bg-contain;
+	@extend .icon-cc;
+	background-image: url("icons/amex-1-xl.png");
+}
+
+.icon-discover::after {
+	@extend .bg-contain;
+	@extend .icon-cc;
+	background-image: url("icons/discover-1-xl.png");
+}
+
+.icon-amazon-1::after {
+	@extend .bg-contain;
+	@extend .icon-cc;
+	background-image: url("icons/amazon-1-xl.png");
+}
+
+.icon-amazon-2::after {
+	@extend .bg-contain;
+	@extend .icon-cc;
+	background-image: url("icons/amazon-2-xl.png");
+}
+
+.icon-android-pay-1::after {
+	@extend .bg-contain;
+	@extend .icon-cc;
+	background-image: url("icons/android-pay-1-xl.png");
+}
+
+.icon-android-pay-2::after {
+	@extend .bg-contain;
+	@extend .icon-cc;
+	background-image: url("icons/android-pay-2-xl.png");
+}
+
+.icon-apple-pay-1::after {
+	@extend .bg-contain;
+	@extend .icon-cc;
+	background-image: url("icons/apple-pay-1-xl.png");
+}
+
+.icon-apple-pay-2::after {
+	@extend .bg-contain;
+	@extend .icon-cc;
+	background-image: url("icons/apple-pay-2-xl.png");
+}
+
+.icon-bitcoin::after {
+	@extend .bg-contain;
+	@extend .icon-cc;
+	background-image: url("icons/bitcoin-1-xl.png");
+}
+
+.icon-paypal-1::after {
+	@extend .bg-contain;
+	@extend .icon-cc;
+	background-image: url("icons/paypal-1-xl.png");
+}
+
+.icon-paypal-2::after {
+	@extend .bg-contain;
+	@extend .icon-cc;
+	background-image: url("icons/paypal-2-xl.png");
+}
+
+.icon-western-union::after {
+	@extend .bg-contain;
+	@extend .icon-cc;
+	background-image: url("icons/western-union-1-xl.png");
+}
+
+.icon-jcb::after {
+	@extend .bg-contain;
+	@extend .icon-cc;
+	background-image: url("icons/jcb-1-xl.png");
+}
