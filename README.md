@@ -71,5 +71,16 @@ All the major UK debit/credit card providors are included along with other payme
     <span class="icon-mastercard"></span>
     <span class="icon-amex"></span>
     <span class="icon-discover"></span>
+    <span class="icon-amazon-1"></span>
+    <span class="icon-amazon-2"></span>
+    <span class="icon-android-pay-1"></span>
+    <span class="icon-android-pay-2"></span>
+    <span class="icon-apple-pay-1"></span>
+    <span class="icon-apple-pay-2"></span>
+    <span class="icon-paypal-1"></span>
+    <span class="icon-paypal-2"></span>
+    <span class="icon-bitcoin"></span>
+    <span class="icon-western-union"></span>
+    <span class="icon-jcb"></span>
 </div>
 ```
