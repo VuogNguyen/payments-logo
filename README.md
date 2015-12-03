@@ -64,4 +64,12 @@ All the major UK debit/credit card providors are included along with other payme
 ### Western Union Logo
 <img src="https://raw.githubusercontent.com/slaterjohn/payment-logos/master/medium/western-union-1-m.png">
 
-
+## How to use
+```html
+<div class="payment-methods">
+    <span class="icon-visa"></span>
+    <span class="icon-mastercard"></span>
+    <span class="icon-amex"></span>
+    <span class="icon-discover"></span>
+</div>
+```
